@@ -47,9 +47,9 @@ After cleaning, I used SQL queries to explore trends:
 
 ## Repository Contents
 
-* `layoffs_cleaning.sql` → SQL script for cleaning raw data
-* `layoffs_eda.sql` → SQL script for exploratory analysis
-* `layoffs.csv` → Dataset used for the project
+* `layoffs_Data_cleaning.sql` → SQL script for cleaning raw data
+* `Layoffs_EDA.sql` → SQL script for exploratory analysis
+* `layoffs_raw.csv` → Dataset used for the project
 
 ---
 
